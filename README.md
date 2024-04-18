@@ -26,6 +26,10 @@
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/27shivashish" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
+  <a href="https://leetcode.com/shivashish27/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="LeetCode" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
